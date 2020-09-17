@@ -1,0 +1,19 @@
+piplie{
+
+agent any
+
+statge{
+
+steps{
+
+echo"https://github.com/ravikumarrv/sample.git"
+
+}
+
+}
+
+
+
+
+}
+
